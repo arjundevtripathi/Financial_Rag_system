@@ -1,9 +1,5 @@
 # Financial RAG System
 
-<<<<<<< HEAD
-=======
-
->>>>>>> b07aabba52cfe9c493f7986411c3f8ed4ca581b7
 A production-ready **Retrieval-Augmented Generation (RAG)** system for querying
 financial documents using LangChain, ChromaDB, Hybrid Search, and GPT.
 

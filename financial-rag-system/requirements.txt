@@ -1,0 +1,31 @@
+# Core RAG
+langchain==0.3.26
+langchain-community==0.3.27
+langchain-openai==0.3.28
+langchain-chroma==0.2.5
+langchain-huggingface==0.3.1
+chromadb==1.0.15
+sentence-transformers==5.0.0
+
+# Document loading
+pypdf==5.8.0
+
+# API & UI
+fastapi==0.116.1
+uvicorn==0.35.0
+streamlit==1.47.1
+
+# LLM providers
+groq==0.13.1
+openai==1.97.1
+
+# Utilities
+python-dotenv==1.1.1
+pandas==2.3.1
+numpy==2.3.2
+rank-bm25==0.2.2
+requests==2.32.4
+
+# Evaluation & Testing
+ragas==0.3.1
+pytest==8.4.1
