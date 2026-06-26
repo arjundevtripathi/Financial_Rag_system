@@ -8,6 +8,8 @@ import os, re, io, sys
 import streamlit as st
 from dotenv import load_dotenv
 
+load_dotenv()
+
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 if ROOT not in sys.path:
     sys.path.insert(0, ROOT)
